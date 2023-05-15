@@ -1,5 +1,5 @@
 # Olá, me chamo Ana!
-## Bem vindo ao meu perfil do GitHub :abanando:
+## Bem vindo ao meu perfil do GitHub
 - Atualmente estou trabalhando como Auxiliar de Redes na empresa Tecnospeed
 - Atualmente estou aprendendo Python
 - Estou procurando ajuda com Carreira Devops
