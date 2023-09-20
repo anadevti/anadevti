@@ -1,10 +1,9 @@
 # Olá, me chamo Ana!
 ## Bem vindo ao meu perfil do GitHub
 - Atualmente estou trabalhando como Auxiliar de Redes na empresa Tecnospeed
-- Atualmente estou aprendendo Python
-- Estou procurando ajuda com Carreira Devops
-- Como entrar em contato comigo: Fique a vontade para me chamar no WhatsApp (44) 998263061
-- Pronomes: Ela/Dela
+- Estou aprendendo Python
+- Minha meta é me tornar Devops ou SRE
+  
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
