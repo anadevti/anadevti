@@ -1,40 +1,38 @@
 # Olá, me chamo Ana!
 ## Bem vindo (a) ao meu perfil do GitHub
 - Atualmente estou trabalhando como Auxiliar de Redes na empresa Tecnospeed
-- Estou aprendendo Python
+- Estou cursando Gestão de TI
 - Minha meta é me tornar Devops ou SRE
-- Certificada Amazon Cloud Practioner 
-  
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- Certificada Amazon Cloud Practioner
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/>
-
-## Contatos:
-<div>
-<a href = "mailto:contato@anacarolayne777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-<a href="https://www.linkedin.com/in/ana-carolyne-952b9314b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
+ ##
+ 
 <div>
 <a href="https://github.com/anadevti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadevti&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadevti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+## Ferramentas e Tecnologias
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Ana-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ana-Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  
+  <img align="center" alt="Ana-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+ 
+  
+  
+</div>
+
+## Estou aprendendo
+
+<div style="display: inline_block"><br>
+  
+<img align="center" alt="Ana-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+<img align="center" alt="Ana-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg">
+<img align="center" alt="Ana-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg">
+
 </div>
 
