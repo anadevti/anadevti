@@ -1,9 +1,8 @@
 # Olá, me chamo Ana!
 ## Bem vindo (a) ao meu perfil do GitHub
-- Atualmente estou trabalhando como Analista de Infraestrutura na empresa Tecnospeed
-- Estou cursando Gestão de TI
-- Minha meta é me tornar Devops ou SRE
-- Certificada Amazon Cloud Practioner
+- Atualmente estou trabalhando como software Reliability Engineer na empresa Stone Tech
+- Estou cursando Gestão de TI e planejo fazer pós em Cloud
+- Certificada Amazon Cloud Practitioner
 
  ##
  
