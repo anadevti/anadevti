@@ -1,6 +1,6 @@
 # Olá, me chamo Ana!
 ## Bem vindo (a) ao meu perfil do GitHub
-- Atualmente estou trabalhando como software Reliability Engineer na empresa Stone Tech
+- Atualmente estou trabalhando como Site Reliability Engineer na empresa Stone
 - Estou cursando Gestão de TI e planejo fazer pós em Cloud
 - Certificada Amazon Cloud Practitioner
 
