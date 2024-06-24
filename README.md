@@ -6,7 +6,7 @@
 
 🎓 Estou cursando Gestão de TI e planejo fazer uma pós-graduação em Cloud
 
-📫 Entre em contato comigo via [Linkedin]([https://www.linkedin.com/in/ana-carolyne-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-952b9314b/](https://www.linkedin.com/in/ana-carolyne-pereira-de-souza/))
+📫 Entre em contato comigo via [Linkedin](https://www.linkedin.com/in/ana-carolyne-pereira-de-souza/)
 
 ☁️ Certificações:
  [Amazon Cloud Practitioner](https://www.credly.com/badges/57e7f661-6275-467d-af0d-8752e0dacb9b/linked_in_profile),
