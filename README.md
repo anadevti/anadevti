@@ -1,8 +1,8 @@
 #  Olá, Sou a Ana Carolyne
 ## Bem vindo (a) ao meu perfil do GitHub
-💼 Trabalho como Site Reliability Engineer na empresa Stone
+💼 Trabalho como Site Reliability Engineer I na empresa Stone Co
 
-✍️ Sempre estudando as tendencias do mercado
+✍️ Sempre estou estudando as tendencias do mercado
 
 🎓 Estou cursando Gestão de TI e planejo fazer uma pós-graduação em Cloud
 
