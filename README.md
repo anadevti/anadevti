@@ -19,12 +19,9 @@
  [Datadog Fundamentals I](https://www.credly.com/badges/a6b6af58-1b30-4a21-9032-870f473882a9/linked_in_profile),
  [Algoritmos e Lógica de Programação](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c06a5d96-7356-4ac0-b5bc-5bac2f729320.pdf),
  
-
- 
  #
  
 ## Minhas Skills
-
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,7 +39,6 @@
 **Ferramentas de Agile**
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
 #
 
 **DevOps**
@@ -60,7 +56,6 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 #
 
 **Ferramentas de desenvolvimento**
@@ -69,8 +64,6 @@
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
 <br/>
 
 ## ⭐ GitHub Stats
