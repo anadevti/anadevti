@@ -7,6 +7,9 @@
 - 🎓 Estudando Gestão De TI na Univercidade Cidade Verde.
 - 💼 Trabalhando atualmente como Site Reability Engineer na Stone Co.
 - 🌱 Aprendendo mais sobre Golang, Python, POO, Flask, Django, SQL e tudo que envolva Backend.
+##
+[![An image of @anadevti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anadevti)](https://holopin.io/@anadevti)
+
 
 ☁️ Certificações:
  [Amazon Cloud Practitioner](https://www.credly.com/badges/57e7f661-6275-467d-af0d-8752e0dacb9b/linked_in_profile),
