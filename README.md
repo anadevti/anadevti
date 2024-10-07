@@ -12,16 +12,16 @@
   <summary>Clique aqui</summary>
 
   # Saiba mais sobre minhas experiencias profissionais e envolvimento nas comunidades ❤:
-  ### AWS User Group Maringá
+  ### ☁ AWS User Group Maringá
      * Em 2024 eu fui convidada para fazer parte do programa, atualmente eu sou Líder da comunidade em Maringá.
      * Organizo meetups pelo menos 1x no mês.
      * Meu intuito é passar conhecimento de Cloud Computing para todo o público.
-  ### Dev Paraná
+  ### 👩‍💻 Dev Paraná
      * Atualmente faço parte da organização Geral da conferencia, que rola anualmente.
-   ### Codaqui
+   ### 👩‍💻 Codaqui
      * A codaqui é uma ONG onde nosso principal objetivo é ensinar tecnologia a crianças e adolescentes.
      * Sou responsável por apoiar de forma geral, mas focada na parte Educacional e fomentar ideias.
-   ### Nasa Space Apps 2024
+   ### 🚀 Nasa Space Apps 2024
      * Participei como Mentora no Hackathon da Nasa, na instituição de ensino Unicesumar.
      * Apoiei os participantes com dicas sobre frameworks, tecnologias e dúvidas pontuais que eles tinham.
        
