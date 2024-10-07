@@ -4,7 +4,7 @@
 ## Sobre mim
 - 🏆 É um prazer te-lo(a) Por Aqui!! 👋 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Gestão De TI na Univercidade Cidade Verde.
+- 🎓 Cursando último périodo de Gestão De TI na Univercidade Cidade Verde.
 - 💼 Trabalhando atualmente como Site Reability Engineer na Stone Co.
 - 🌱 Aprendendo mais sobre Golang, Python, POO, Flask, Django, SQL e tudo que envolva Backend.
 ##
