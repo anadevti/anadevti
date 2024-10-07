@@ -9,7 +9,7 @@
 - 🌱 Aprendendo mais sobre Golang, Python, POO, Flask, Django, SQL e tudo que envolva Backend.
 
   <details>
-  <summary>Descubra mais sobre mim</summary>
+  <summary> Descubra mais sobre mim 🐱‍👤</summary>
 
   # Saiba mais sobre minhas experiencias profissionais e envolvimento nas comunidades ❤:
   ### ☁ AWS User Group Maringá
