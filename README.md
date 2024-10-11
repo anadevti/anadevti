@@ -6,7 +6,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando último périodo de Gestão De TI na Univercidade Cidade Verde.
 - 💼 Trabalhando atualmente como Site Reability Engineer na Stone Co.
-- 🌱 Aprendendo mais sobre Golang, Python, POO, Flask, Django, SQL e tudo que envolva Backend.
+- 🌱 Aprendendo mais sobre C#, Python, POO, Flask, Django, SQL e tudo que envolva o nosso querido Backend.
 
   <details>
   <summary> Descubra mais sobre mim 🐱‍👤</summary>
