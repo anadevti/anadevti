@@ -24,6 +24,9 @@
    ### 🚀 Nasa Space Apps 2024
      * Participei como Mentora no Hackathon da Nasa, na instituição de ensino Unicesumar.
      * Apoiei os participantes com dicas sobre frameworks, tecnologias e dúvidas pontuais que eles tinham.
+  ### 🤘🏻 Sou completamente apaixonada por música e livros! abaixo você pode ver o que estou ouvindo em tempo real!
+  ##
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aninha_jaurello&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
        
 ##
 [![An image of @anadevti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anadevti)](https://holopin.io/@anadevti)
