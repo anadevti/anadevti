@@ -28,6 +28,7 @@
   ##
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aninha_jaurello&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 [Profile at Codeberg](https://codeberg.org/anadevti)
+[Profile at GitLab](https://gitlab.com/anadevti)
        
 ##
 [![An image of @anadevti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anadevti)](https://holopin.io/@anadevti)
