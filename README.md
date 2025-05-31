@@ -54,17 +54,6 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aninha_jaurello&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 [Profile at Codeberg](https://codeberg.org/anadevti)
 [Profile at GitLab](https://gitlab.com/anadevti)
-       
-##
----
-
-
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anadevti&show_icons=true&hide=contribs&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anadevti&theme=default" alt="GitHub Streak" height="165">
-</p>
-
 ---
 ### ☁️ Certificações
 
