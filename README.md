@@ -1,10 +1,9 @@
-
 ![](https://komarev.com/ghpvc/?username=anadevtie&color=006bed)
 
 <h1 align="center">Olá, eu sou a <span style="color:#40a9ff;">Ana</span> 👋</h1>
 <p align="center">
-  Engenheira DevOps apaixonada por automação, observabilidade e cultura DevOps.  
-  Transformo código, infraestrutura e processos em <strong>plataformas seguras, escaláveis e resilientes</strong>.
+  Software Engineer II especializada em desenvolvimento backend C# e .NET, com sólida experiência em SRE.  
+  Transformo requisitos complexos em <strong>sistemas escaláveis, performáticos e resilientes</strong> para aplicações de missão crítica.
 </p>
 
 [![An image of @anadevti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anadevti)](https://holopin.io/@anadevti)
@@ -13,48 +12,74 @@
 
 ## 🛠️  Tech Stack & Ferramentas
 
-| Categoria | Serviços |
+| Categoria | Tecnologias |
 |-----------|------------------------|
+| **Backend** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Arquitetura** | ![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat-square) ![Event-Driven](https://img.shields.io/badge/-Event%20Driven-4ECDC4?style=flat-square) ![DDD](https://img.shields.io/badge/-DDD-45B7D1?style=flat-square) |
+| **Mensageria** | ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Azure Service Bus](https://img.shields.io/badge/-Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
 | **Containerização & Orquestração** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **IaC** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Terragrunt](https://img.shields.io/badge/-Terragrunt-4040B2?style=flat-square) |
-| **CI / CD** | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Argo CD](https://img.shields.io/badge/-Argo%20CD-EF7B4D?style=flat-square&logo=argo) |
-| **Observabilidade** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/-Loki-0E6E9B?style=flat-square) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat-square&logo=new-relic&logoColor=white) |
-| **Alertas & Incidentes** | ![PagerDuty](https://img.shields.io/badge/-PagerDuty-28C101?style=flat-square&logo=pagerduty&logoColor=white) ![Opsgenie](https://img.shields.io/badge/-Opsgenie-172B4D?style=flat-square&logo=opsgenie&logoColor=white) |
-| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Outros** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **IaC & CI/CD** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Argo CD](https://img.shields.io/badge/-Argo%20CD-EF7B4D?style=flat-square&logo=argo) |
+| **Observabilidade** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) ![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat-square&logo=new-relic&logoColor=white) |
+| **Testes** | ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat-square) ![NUnit](https://img.shields.io/badge/-NUnit-512BD4?style=flat-square) ![Moq](https://img.shields.io/badge/-Moq-FF6B6B?style=flat-square) ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) |
+| **APIs & Integrações** | ![REST](https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square) ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white) |
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 **Atualmente:** Sou Site Reliability Engineer (SRE) na Stone, integrando o time responsável pela plataforma de Alertas e Incidentes. Meu papel envolve garantir a visibilidade em tempo real dos sistemas críticos da empresa, acelerar respostas a incidentes e contribuir para melhorias contínuas nos processos operacionais.
-- 🎓 Formada em Gestão De Tecnologia pela Univercidade Cidade Verde.
-- 🧩 **Interesses:** SRE, FinOps, GitOps, plataformas internas (IDP), desenvolvimento backend e automações.
-- 🌱 **Estudando:** Venho me aprofundando mais em kubernetes e focando em aws, a fim de tirar certificações. 
+- 🔭 **Atualmente:** Software Engineer II focada em desenvolvimento backend C# e .NET, aplicando minha experiência em SRE para construir sistemas robustos e observáveis. Trabalho com arquiteturas orientadas a eventos, performance optimization e integrações complexas.
+
+- 🎯 **Especialidades:** 
+  - Desenvolvimento de APIs REST e microservices em .NET Core
+  - Arquitetura orientada a eventos com mensageria (Kafka, RabbitMQ)
+  - Otimização de performance e consultas em bancos de dados
+  - Implementação de testes unitários, integração e carga
+  - Observabilidade e monitoramento de aplicações críticas
+
+- 🎓 Formada em Gestão De Tecnologia pela Universidade Cidade Verde.
+- 🧩 **Interesses:** Arquiteturas distribuídas, Domain-Driven Design, Event Sourcing, CQRS, performance engineering e developer experience.
+- 🌱 **Estudando:** Aprofundando conhecimentos em .NET 8, Event Sourcing, e preparando certificações Azure.
 - 🗣 **Idiomas:** Português (nativo), Inglês (Intermediário).
 
   <details>
   <summary> Descubra mais sobre mim 🐱‍👤</summary>
 
-  # Saiba mais sobre minhas experiencias profissionais e envolvimento nas comunidades ❤:
+  # Experiência Profissional e Conquistas 💼:
+
+  ### 🏗️ Transição SRE → Software Engineer II
+     * Aplicação de mindset SRE no desenvolvimento: foco em confiabilidade, observabilidade e performance desde o design
+     * Experiência única combinando desenvolvimento backend com visão operacional de sistemas críticos
+     * Conhecimento profundo em troubleshooting e debug de aplicações em produção
+
+  # Envolvimento nas Comunidades ❤:
   ### ☁ AWS User Group Maringá
-     * Em 2024 eu fui convidada para fazer parte do programa, atualmente eu sou Líder da comunidade em Maringá.
-     * Organizo meetups pelo menos 1x no mês.
-     * Meu intuito é passar conhecimento de Cloud Computing para todo o público.
+     * Líder da comunidade desde 2024, organizando meetups mensais
+     * Compartilhando conhecimento sobre Cloud Computing e DevOps
+
   ### 👩‍💻 Dev Paraná
-     * Atualmente faço parte da organização Geral da conferencia, que rola anualmente.
+     * Membro da organização da conferência anual
+     * Foco em disseminar conhecimento técnico na comunidade
+
    ### 👩‍💻 Codaqui
-     * A codaqui é uma ONG onde nosso principal objetivo é ensinar tecnologia a crianças e adolescentes.
-     * Sou responsável por apoiar de forma geral, mas focada na parte Educacional e fomentar ideias.
+     * Voluntária na ONG focada em ensino de tecnologia para jovens
+     * Responsável pela área educacional e fomento de ideias inovadoras
+
    ### 🚀 Nasa Space Apps 2024
-     * Participei como Mentora no Hackathon da Nasa, na instituição de ensino Unicesumar.
-     * Apoiei os participantes com dicas sobre frameworks, tecnologias e dúvidas pontuais que eles tinham.
-  ### 🤘🏻 Sou completamente apaixonada por música e livros! abaixo você pode ver o que estou ouvindo em tempo real!
+     * Mentora no Hackathon da Nasa na Unicesumar
+     * Apoio técnico em frameworks, tecnologias e soluções arquiteturais
+
+  ### 🤘🏻 Sou completamente apaixonada por música e livros! Veja o que estou ouvindo:
   ##
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aninha_jaurello&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[Profile at Codeberg](https://codeberg.org/anadevti)
-[Profile at GitLab](https://gitlab.com/anadevti)
+
+  ### 🔗 Outros Perfis
+  [Profile at Codeberg](https://codeberg.org/anadevti) | [Profile at GitLab](https://gitlab.com/anadevti)
+
+  </details>
+
 ---
+
 ### ☁️ Certificações
 
 <details>
@@ -90,7 +115,7 @@
 </details>
 
 <details>
-<summary><strong>Programação</strong> 💻</summary>
+<summary><strong>Programação & Desenvolvimento</strong> 💻</summary>
 
 |                 | Credencial |
 |-----------------|------------|
@@ -98,11 +123,20 @@
 
 </details>
 
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadevti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadevti&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-anacarolyne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolyne-pereira-de-souza/)](https://www.linkedin.com/in/ana-carolyne-pereira-de-souza/)
 [![Gmail Badge](https://img.shields.io/badge/-anacarolayne777@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacarolayne777@gmail.com)](mailto:anacarolayne777@gmail.com)
 
-> _“Automate everything that repeats.”_
+> _"From infrastructure reliability to code excellence - building systems that scale and endure."_
